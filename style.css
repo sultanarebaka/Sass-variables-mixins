@@ -9,6 +9,11 @@ $max-width: 1120px;
   box-sizing: border-box;
 }
 
+
+$dark-colour: #353535;
+$bright-colour: #009CD8;
+$light-grey: #eee;
+
 h1 {
   font-family:Arial, Helvetica, sans-serif;
 }
